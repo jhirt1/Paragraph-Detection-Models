@@ -1,0 +1,53 @@
+,Blocks.paragraph,grouped_text
+0,0,"studies and success stories, and the strengthening of the role of"
+1,1,With the InfoVis2003 contest we attempted to provide real data toolkits.
+3,2,and tasks while trying to narrow the problem to one data type (trees) and three representative tree types. The contest taught us 4.1 Repositories of data and tasks
+6,3,that the problem was still too large for a contest and that the One way to improve evaluation is to create benchmark datasets
+8,4,vague nature of the tasks made it impossible to compare answers and tasks. Sample datasets have been made available (e.g. for
+10,5,effectively. Our next step - the 2004 contest - will only have graphs and time series) but user testing requires benchmark
+12,6,"one dataset, much fewer tasks and a more structured reporting tasks as well. To promote this approach we organized the"
+14,7,"format. Nevertheless, we anticipate that the open-ended nature InfoVis contest [21]. Our goal was to initiate the development of realistic tasks and the diversity of approaches will still make of the benchmarks, establish a forum to promote evaluation judging a challenge. The contest also illustrated the difficulty of methods, and also create a new interesting event at the"
+20,8,presenting convincing evidence. Demonstrating the power of a tool is difficult. Researchers are trained to describe their tools' conference. The first contest took place in 2003 and the 2004 contest is now underway [22]. We invited submissions of case
+24,9,novel features more than illustrating them with convincing studies of the use of information visualization for the analysis of examples using real data.
+27,10,"tree structured data, in particular to look at differences between pairs of similar trees. Three pairs of datasets were provided is a"
+29,11,"Contests are an artificial testing situation where the opinion of standard format, along with a taxonomy of general tasks (about"
+31,12,"judges reflects the quality of the submitted materials, opposed to 40 tasks in 11 categories). For each dataset the application"
+33,13,"the actual merits exhibited when tools are tested interactively domain of the dataset was described (phylogenies, taxonomies"
+35,14,"and discussed with designers. The impact of contests may be and file systems, with about 60, 200,000 and 70,000 modes limited but the datasets and tasks remain available after the respectively), and open-ended domain specific tasks were"
+39,15,contests. They can be used by developers to exercise their tools provided to guide the analysis. After five months we received
+41,16,"and identify missing features, and by evaluators to enrich their eight entries (a small number, but satisfactory for a first year)."
+43,17,testing procedures with complex tasks. We hope that more The main finding was that it was difficult to compare systems specific lists of tasks can be added to the repository and used in even with specific datasets and tasks. We had hoped to focus the controlled experiments.
+48,18,"attention of submitters on tasks and results (insights), but the majority of the materials we received focused on descriptions of"
+50,19,4.2 Case studies and success stories system features. Little information was provided on how users
+52,20,"Case studies report on users in their natural environment doing could accomplish the tasks and what the results meant, making it"
+54,21,"real tasks. They can describe the entire discovery process, very difficult for the judge to compare. The systems presented"
+56,22,"collaborations among users, the frustrations of data cleansing were extremely diverse, each using different approaches to"
+58,23,"and the excitement of seeing the first overview of the data. They visualize the data. Each tool addressed only a subset of the tasks,"
+60,24,"can report on frequency of use and benefits gained. The for a subset of the datasets. The phylogeny, which consisted of"
+62,25,"disadvantage is that results may not be replicable and a small binary tree was not used, probably because the tasks"
+64,26,generalizable. Case studies have the potential to convince users were complex and required working with biologists (i..e. chosen
+66,27,and managers that information visualization is a legitimate to be realistic).
+68,28,"investment. They can be extremely convincing for potential adopters working in the same application domain as the one There were three first-place entries (see [21, 23] for more"
+71,29,addressed by the study. Others will need to be able to information on all entries). TreeJuxtaposer [24] submitted the
+73,30,extrapolate the results to their domains and imagine how the tool most convincing description of how the tasks could be
+75,31,could be useful for them. conducted and results interpreted. Zoomology [25] demonstrated how a custom design for a single dataset could lead to a useful
+78,32,Case studies may use entirely different measures of success that tool that addressed many of the tasks satisfactorily. InfoZoom
+80,33,the ones traditionally used in user studies. E-commerce criteria [26] was the most surprising entry. This tool was designed for
+82,34,"might the percentage of completed sales, not time or error. In the manipulating tables and not trees. However the authors"
+84,35,example of Figure 1 Peets Coffee goals are to sell coffee and tea. impressed the judges by showing that they could perform most
+86,36,"What matters is that users complete the order and come again. of the tasks, find errors in the data and provide insights in the"
+88,37,"User satisfaction remains a likely indicator of success, hopefully data. The three second-place entries showed promises but"
+90,38,correlated with order completion. What makes Peets coffee's provided less information to the judges on how the tasks were
+92,39,"interface more satisfying remains unverified, even though we conducted and what the results meant. EVAT [27] demonstrated"
+94,40,may have some hypothesis. Users might feel more in control that powerful analytical tools complementing the visualization
+96,41,because they can review all the choices at once? The novelty of could assist users to accomplish their tasks. Taxonote [28]
+98,42,the interface might entice expert computer users who are also demonstrated that labeling is an important issue that makes
+100,43,more able to work thru the interface? Longitudinal studies will textual displays attractive. The submission from Indiana
+102,44,"be helpful. University [29] illustrated the benefits of toolkits by quickly preparing an entry combining several tools, each accomplishing"
+105,45,The recording of usage data with appropriate privacy protections different tasks. All entries were given a chance to revise their
+107,46,is a powerful method to glean information about user behavior. materials after the contest. We required participants to fill a
+109,47,"It can inform designers about the frequency of feature use, structured form with screenshots and explanations for each task."
+111,48,"guide screen layouts to speed interaction, pinpoint possible That information is now archived in the Information"
+113,49,sources of dissatisfaction and inform the revision of help Visualization Benchmark Repository [23]. materials. It can also provide evidence of success when users
+116,50,To appear in IEEE Proc. of AVI 2004
+117,51,4

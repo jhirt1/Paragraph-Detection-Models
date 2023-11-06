@@ -1,0 +1,51 @@
+,Blocks.paragraph,grouped_text
+0,0,266 Carlyle LRTS 50(4)
+2,1,"them; and second, what people say when they want to find"
+3,2,"be virtually anything: relationships are interactions among a document. A document may say about itself, ""Translated"
+5,3,"entities; and attributes are properties or characteristics of from Amy Tan's Joy Luck Club into Spanish by Jordi Fibla"""
+7,4,"either entities or relationships. For example, one of the or ""Rudden and Wyatt's EU Treaties and Legislation, edited"
+9,5,"simpler FRBR entities is ""object,"" which is defined as ""a by Derrick Wyatt, 8th edition; revision of Basic Community material"
+12,6,"thing. Objects have attributes such as ""term""; Laws, edited by Bernard Rudden and Derrick Wyatt, 7th"
+14,7,"thus, Seattle's most conspicuous architectural object has edition."" These are statements found on title pages that"
+16,8,"the term attribute ""Space Needle."" In the bibliographic identify expressions. A library user may ask a question like"
+18,9,"universe, objects frequently have an aboutness relationship ""Do you have Seamus Heaney's translation of Beowulf?"""
+20,10,"with works, SO the work The Space Needle: Symbol of Seattle (a request for an expression) or ""Do you have Stephen"
+22,11,"is about the Space Needle. Hawking's A Brief History of Time?"" (a request for a work)."
+24,12,"Chen introduced ER modeling as a technique to facili- Upon further questioning, many such users do not have a"
+26,13,tate the development of database systems. 12 Creating a good particular item or even a particular manifestation in mind.
+28,14,"database is difficult, and good conceptual modeling of the What they are interested in are abstractions-the content,"
+30,15,world that the database system is intended to capture can either at the expression or the work level (not as published
+32,16,"help make a more successful system. In general, the better by a particular publisher on a particular date or on a particu-"
+34,17,"the conceptual modeling, the more successful the system. lar item signed by an author or translator)."
+36,18,Because ER models are created for specific purposes If library users did not ask such questions or initiate
+38,19,"and have a specific structure, they include only those aspects such searches, cataloging models including such abstrac-"
+40,20,"of the world that are relevant to their purpose. As a result, tions as work and expression would not be needed. If they"
+42,21,"ER models tend to highlight limited aspects of what they were not needed, they would never have been created by"
+44,22,"are modeling. Thus, an ER model is not a complete picture the cataloging community, regardless of statements made"
+46,23,of the world but a picture that is drawn to accomplish a in items. We care about connecting users with the materials
+48,24,"purpose. One ramification of this fact is that limitless ER they seek. To do this well, we need the catalog to identify"
+50,25,"models could be created to represent the same thing. such abstractions as work and expression. In our profession, we find a variety of troublesome abstractions. Consider, for example, the notions of ""informa-"
+54,26,"Evaluating Conceptual Models tion"" or ""document""-many have tried to define and model these abstractions. However, the LIS community has yet to"
+57,27,"Many people want to evaluate a conceptual model such as reach consensus as to what these words mean, or to agree on"
+59,28,"FRBR using true or false criteria. While one can say that a a particular model of them. To quote a familiar example, is"
+61,29,model is true to the extent that it explains accurately and an antelope a document? Under what circumstances might
+63,30,"false to the extent that it does not, this is not a very helpful it be a document, if it could be one? LIS students often"
+65,31,"way to look at models. A much more useful way to evaluate laugh when they read Briet's 1951 assertion that an antelope,"
+67,32,"models is to ask whether they are successful at fulfilling their under specific circumstances, is a document. 10 However,"
+70,33,"purpose. When the purpose of a model is to improve a prod- Briet's claim that an antelope is a document, and the circum-"
+72,34,"uct or process, the best way to make an evaluation of that stances under which it is or is not a document, is a serious"
+74,35,model is to see whether it succeeds or not. From this per- attempt to make the notion of document more concrete-in
+76,36,"spective, a model that contains many inaccuracies could do other words, to model the notion of ""document."" It offers an"
+78,37,"a better job than one with few, because it is more success- example of the type of evidence needed to decide when one"
+80,38,"ful at fulfilling its purpose. For example, some conceptual has a document and when one does not."
+82,39,models are very complex-so complex that they are difficult for people to understand and implement. A complex model Entity-Relationship Models
+85,40,"could fail quite easily if, because it was too complex, it was never used. To make matters more complicated, FRBR is a very spe-"
+88,41,Another way to look at evaluating models is to consider cific type of conceptual model-an entity-relationship (ER)
+90,42,"love again. If one were to model love, how would one do it? model. ER modeling is a technique that specifies the struc-"
+92,43,"In ER modeling terms, love could be modeled as a single ture of a conceptual model. In other words, it specifies the"
+94,44,"entity, encompassing all different types of love, or it could be kind of things that have to be in it and the properties those"
+96,45,"modeled as multiple entities (parental love, brotherly love, things may have. A simplified explanation of the structure"
+98,46,and SO on). The choice to make love one or more than one stipulated by an ER model is that three kinds of things are
+100,47,"entity should relate to purpose-what end is a particular allowed in it: entities, attributes, and relationships. Entities"
+102,48,"model of love trying to serve? Saying that an ER model of are things, either physical or abstract. Thus, an entity can"
+104,49,love that treats it as one entity is true and one that treats it

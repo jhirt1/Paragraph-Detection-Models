@@ -1,0 +1,48 @@
+,Blocks.paragraph,grouped_text
+0,0,334
+1,1,Knowl. Org. 40(2013)No.5 H. Herre. Formal Ontology and the Foundation of Knowledge Organization
+3,2,cannot establish relevant axioms for describing the do-
+4,3,entities. Predicative terms are linguistic expressions which main. An inappropriate choice of the basic concepts for a
+6,4,specify conditions to be satisfied by an entity. There is a domain leads to the problems of irrelevance and concep-
+8,5,"close relation between categories and language, hence, any tual incompleteness. Furthermore, the relevance of"
+10,6,analysis of the notion of a category must include the in- change of concepts must be taken into consideration
+12,7,"vestigation of language. Ontologies exhibit different levels of abstraction; top- level ontologies, for example, apply to any domain of in-"
+15,8,"3.2 Universals, concepts, and symbols terest, whereas upper-domain and domain ontologies are related to more restricted domains. There are no estab-"
+18,9,"We draw on the ideas of Gracia (1999), who distinguished lished rules to separate these levels of abstraction, though"
+20,10,various basic types of categories. We distinguish at least there is tendency to understand the axioms of a top-level
+22,11,"three kinds of categories: universals, concepts, and symbol ontology as analytic truths. Quine (1951) emphasized that a"
+24,12,structures. Universals are categories which are independ- clear separation between analytic and synthetic truths can-
+26,13,"ent of the mind; they are classified into intrinsic and ideal not be made; on the other hand, top-level ontologies are universals. Intrinsic universals are constituents of the the most basic and they play-in a sense-a pseudo-"
+30,14,mind-independent material world; they are associated to analytical role. The interrelations between ontologies of
+32,15,"invariants of the spatio-temporal real world, and they are different levels of abstraction needs further investigation,"
+34,16,something abstract that is in the things. Ideal universals and a contribution to a formal-logical analysis is presented
+36,17,are existentially independent of the material real world in Palchunov (2005). We distinguish four basic types of
+38,18,"and of the mind, as for example numbers, geometric enti- domains: the domain of the material world, the domain of"
+40,19,"ties, and platonic ideas. the mental-psychological world, the domain of the social"
+42,20,"Concepts are categories that are represented as mean- world, and, finally, the domain of abstract, ideal entities."
+44,21,ings in someone's mind. Concepts are a result of common Basic ideas on these ontological regions were established
+46,22,"intentionality which is based on communication and soci- by Hartmann (1964), and further elaborated by Poli (2001)."
+48,23,ety. We hold that universals can only accessed through It is an important task of the onto-axiomatic method to
+50,24,"concepts, hence for the establishing of knowledge the develop means to support the solution of the basic prob-"
+52,25,category of concepts is the most important one. Symbols lems mentioned above. This is work in progress.
+54,26,are signs or texts that can be instantiated by tokens. There is a close relation between these three kinds of categories: 3.0 The GFO-framework
+57,27,"a universal is captured by a concept which is individually grasped by a mental representation, and the concept and In this section, we give an overview of the GFO-"
+60,28,its representation are denoted by a symbol structure being framework; a more detailed exposition is presented in
+62,29,an expression of a language. Texts and symbolic struc- Herre (2010) and Herre et al. (2007). General Formal On-
+64,30,tures may be communicated by their instances that a tology (GFO) is a top-level ontology which is being de-
+66,31,"physical tokens. veloped at the university of Leipzig. 3.3 Ontological basic distinctions 3.1 Categories, instances, and modes of existence Entities are classified into categories and individuals. The The term ""entity"" covers everything that exists, where ex-"
+72,32,basic entities of space and time are chronoids and to- istence is understood in the broadest sense. We draw on
+74,33,poids; these are considered as individuals. The ontology the theory of Ingarden (1964) who distinguishes several
+76,34,"of space and time is inspired by ideas of Brentano (1976). modes of being: absolute, ideal, real, and intentional enti-"
+78,35,The GFO theory of time is presented in Baumann et al. ties. The basic distinction of entities is between categories
+80,36,"(2012). Individuals are divided into concrete and abstract. and instances. A category is an entity, being independent"
+82,37,"Concrete individuals exist in time or space, whereas ab- of time and space, which can be predicated of other enti-"
+84,38,stract individuals are independent of time and space. Ac- ties. The predication relation is closely related to the in-
+86,39,"cording to their relations to time, concrete individuals are stantiation relation, and the feature of being instantiable"
+88,40,"classified into continuants, presentials and processes. holds only for categories."
+90,41,"Processes happen in time and are said to have a temporal On the opposite, individuals are singular entities which"
+92,42,extension. Continuants persist through time and have a cannot be instantiated. The instances of a category are not
+94,43,"lifetime, which is a chronoid. A continuant exhibits at any necessarily individuals, they can be categories again. Cate-"
+96,44,"time point of its lifetime a uniquely determined entity, gories are entities expressed by predicative terms of a"
+98,45,"called presential, which is wholly present at the (unique) formal or natural language that can be predicated of other time boundary of its existence."
+101,46,"https://doi.org/10.5771/0943-7444-2013-5-332 Generiert durch IP '174.114.197.135, am 26.01.2020, 02:15:09. Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig."

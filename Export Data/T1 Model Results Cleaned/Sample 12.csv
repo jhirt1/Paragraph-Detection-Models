@@ -1,0 +1,49 @@
+,Blocks.paragraph,grouped_text
+0,0,602
+1,1,Knowl. Org. 46(2019)No.8 V. Broughton. The Respective Roles of Intellectual Creativity and Automation in Representing Diversity
+3,2,6.0 What solutions exist to the problem of bias? how serious these efforts are. We learn of a Christian robot
+5,3,"priest in Wittenberg which radiates light from its hands and As is the case in library and information science, where the"
+7,4,pronounces blessings in five languages as part of an exhibi- interests and priorities of the user community demand a
+9,5,"tion to celebrate 500 years since the invention of printing privileging of those interests, bias is not always regarded as"
+11,6,"technology, instrumental in the Reformation and the rise of a bad thing. It is generally agreed that the very fact of a spe-"
+13,7,Protestantism (Sherwood 2017). Other cases include a robot cific perspective unwittingly and unavoidably generates bias
+15,8,Buddhist monk in China (Tatlow 2016) which reads scrip- towards the favoured group (such as classification schemes
+17,9,"ture and can answer questions, and another in Japan (Field for libraries with specific religious affiliations). Given the im-"
+19,10,"2017) which can ""chant prayers and tap drums as part of a portance of meeting user expectations and the needs of the"
+21,11,"funeral ceremony."" user community, bias can be seen as an ethically-neutral phe- There is also a literature in the overlap between religious nomenon."
+25,12,philosophy and AI that considers the nature of the relation- In other cases the investigation of bias is simply a part
+27,13,"ships between intelligent agents, humans and the person of of the scholarly study of society and the legitimate search"
+29,14,"God, typically whether the creation of intelligent agents in for patterns and trends in human cultures. For example, a"
+31,15,"some sense mirrors the creation of humans (Herzfeld paper by Kozlowski et al. (2019, 38) shows how the ma-"
+33,16,"2003), and if the possibilities of transhumanism through the chine analytical technique of word embedding can help to"
+35,17,technological alteration of species are realizable (Dumsday reveal changes in social attitudes over time and historic
+37,18,"2017). Vidal (2007, 930) makes a comparison between man's changes in word meanings. In different situations, the"
+39,19,interaction with artificial beings and his interactions with the identification of bias may be the preliminary to addressing
+41,20,"gods, asking whether the similarities are not caused by un- it in a social and political context, and is a useful tool in"
+43,21,"certainty: highlighting social inequalities. In a wider context however, bias should be energetically"
+46,22,But it is also true that where interaction is supposed tackled if the system is not to appear as the tool of a par-
+48,23,"to exist between the gods and their worshippers, ticular cultural, political, or disciplinary community. Bias"
+50,24,there always remains a strong element of uncertainty inherent in data is generally regarded as undesirable and
+52,25,which cannot easily be dismissed concerning the ex- has generated an area of research activity under the general
+54,26,"act ontological nature of the hybrid arrangement by heading of machine-learning fairness. Barocas, Hardt, and"
+56,27,which the divinity's presence is made manifest. It is Narayanan (2018) provide a broadly-based survey of a
+58,28,"precisely the same sort of ontological uncertainty number of problems and potential solutions, based on sta-"
+60,29,"that one finds expressed in the field of robotics. And tistical adjustment. The book ""offers a critical take on cur-"
+62,30,this is also why robots both fascinate and worry the rent practice of machine learning as well as proposed tech-
+64,31,"general public. nical fixes for achieving fairness."" Mancuhan and Clifton (2014) also propose a statistical"
+67,32,"6.2 The moral and religious life of machines solution to bias in data used for automatic financial deci- sion-making, employing Bayesian techniques to identify"
+70,33,A pressing question is whether a real sense of moral re- and automatically correct bias. This is incidentally one of
+72,34,"sponsibility can be developed in intelligent agents, or, more the few papers to reference religion as an attribute subject"
+74,35,"fancifully perhaps, a proper religious sense. In human be- to bias, although the authors do not go on to include it in"
+76,36,"ings, it may seem obvious that ethical decisions differ in their study."
+78,37,"some significant respect from other kinds of decisions, and that intellectual reasoning is subordinate to, or at least 6.1 A moral and religious solution"
+81,38,"strongly influenced by, emotional intelligence. As Liao (2016) says: As with every other area of human life, machine intelligence has impacted religious communities, apart from the general"
+85,39,Central area of intellectual inquiry across different philosophical questions of whether robots can act as moral
+87,40,"disciplines involves understanding the nature, prac- agents. A number of applications exist which aim to support"
+89,41,"tice, and reliability of moral judgments. For instance, religious practice, such as the Roman Catholic Confession"
+91,42,an issue of perennial interest concerns what moral app (Rau 2011) and Muslim Pro which can tell you prayer
+93,43,judgments are and how moral judgments differ from times and the direction of Mecca in your own town or vil-
+95,44,"nonmoral judgments. Moral judgments such as ""Tor- lage (Muslim Pro 2019), and attempts have already been"
+97,45,"ture is wrong"" seem different from nonmoral judg- made to use robots in ritual. Most of the literature here is in"
+99,46,"ments such as ""Water is wet."" But how do moral judg- popular journals and the press, SO it may be difficult to assess"
+101,47,"ments differ from nonmoral, but normative judg-"

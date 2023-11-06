@@ -1,0 +1,57 @@
+,Blocks.paragraph,grouped_text
+0,0,rate from our rejection of the imposition of individual
+1,1,takes as input; knowing the result does not provide all the biases on other scholars; we continue to believe that disci-
+3,2,information needed to determine the input to the function. plines capture generalities and that information science
+5,3,Information about the sign of the original number is lost should not reject any valid research on information and
+7,4,"when squaring occurs, making the reversal of the process should attempt to embrace all forms of information."
+9,5,"not possible for all cases. Similarly, if the reader is told that the sum of two numbers is 7, it is impossible to determine whether the two initial numbers were 6 and 1,"
+12,6,"4. A Process 4 and 3, or some other combination. One can imagine a Information is always informative about something,"
+15,7,reversible variant of this function that produces the sum being a component of the output or result of the process.
+17,8,"and one of the original numbers. One can always move This ""aboutness"" or representation is the result of a pro-"
+19,9,"from these two outputs back to the original values. cess or function producing the representation of the input,"
+21,10,"Other types of processes produce information. An in- which might, in turn, be the output of another function"
+23,11,"teresting phenomena is found at the quantum level in and represent its input, and so forth. Consider a common"
+25,12,physics. Consider two particles that are produced from process such as cooking. Baking a cake begins with ingre-
+27,13,"a single process such that they are moving in opposite dients and a set of instructions, either written, spoken, or"
+29,14,"directions. Many pairs of particles produced from a single in the mind of the cook. Following the instructions, the"
+31,15,"creating process will each have a characteristic which cook transforms the ingredients into a sloppy mess which,"
+33,16,"does not ""take on"" a value (for either particle) until after an appropriate amount of baking, results in a cake,"
+35,17,this value is observed or measured by instrumentation. if one is careful and perhaps lucky.
+37,18,Because these particles (will) have opposite characteristic Examining the cake provides information about both
+39,19,"values, measuring the value of one of the particles causes the process and the original ingredients, assuming that"
+41,20,"or forces the other particle, no matter at what distance, the cake may be examined without the act of observation"
+43,21,to take on the opposite value for the characteristic. A changing the cake. The choice of high quality ingredients
+45,22,measuring process here makes information appear or be- or the addition of a special flavoring will affect the out-
+47,23,"come available; we try to avoid saying that information come, ideally in a beneficial way. Varying the process,"
+49,24,"was ""created"" by the measuring process. The measuring such as the amount of time in the oven or the temperature"
+51,25,"process takes the particles that are valueless in regards to at which the cake is baked, also changes the final product,"
+53,26,the characteristic as input and produces particles that have and an examination of the final product provides informa-
+55,27,values. tion about the process used as well as about the ingredi-
+57,28,All processes produce information: Making cakes and ents. Note that the information will seldom allow one to
+59,29,"measuring characteristics of sub-atomic particles, physi- fully reconstruct the producing process and its input, and"
+61,30,cal processes and processes commonly understood as non- any prior knowledge about the process or its input will
+63,31,"physical, describable and indescribable processes. An un- aid in the reconstruction. The cooking process changes"
+65,32,"derstanding of the information produced by processes re- one set of ingredients, one set of materials, into another"
+67,33,quires some understanding of the nature of a process. set of materials: The cake. The change from one set of
+69,34,"Processes may be complex, or they may be simple and materials to the cake provides information about the origi-"
+71,35,"easily described and studied. All produce information nal materials, and the baking process. We may speak of"
+73,36,about the input and the process. The author believes that the cooking process as carrying information about the
+75,37,"all processes can be described, given enough time and original materials."
+77,38,"resources. However, even if some processes cannot be A cook cannot move backwards from a cooked cake"
+79,39,described it is still useful to recognize the output of the to regenerate the original ingredients; baking is almost
+81,40,"process as ""about"" the process itself and the input. Fur- always an irreversible process. Processes may be totally"
+83,41,"thermore, the notion of information as the values in the reversible, allowing the process to move backwards from"
+85,42,output of a process is helpful in understanding informa- the final state to the initial state. Reversible processes are
+87,43,tion phenomenon. such that no information is unrecoverable (lost) during
+89,44,"Processes consistent with assumptions defined by the operation of this process; thus, given the output, one"
+91,45,mathematicians may be defined as mathematical func- can still move back to the input. A simple reversible
+93,46,"tions, such as those obtained by pressing mathematical process is one that increments the input by one and returns"
+95,47,operator keys on a calculator. These functions take one the incremented value. One can always take the output
+97,48,"or more arguments as input and return a single value. and, knowing the nature of the process, move backward"
+99,49,Each input will produce the same given output each time to the unique input that produced the output. On the other
+101,50,"a deterministic function is used, acting mechanically, al- hand, non-reversible processes may lose information as"
+103,51,"ways giving the same output from a given input. The they operate. Given the output of a non-reversible process,"
+105,52,"process of addition, being deterministic and given com- one cannot always tell which input produced the output."
+107,53,"mon mathematical assumptions, will always produce 5 The square function that produces the number 4, for ex-"
+109,54,"from inputs 2 and 3. Consider the increment function, ample, could take +2 or -2 as its argument, what it which returns the value one more than the amount as- Reproduced with permission of the copyright owner."
+113,55,Further reproduction prohibited without permission.

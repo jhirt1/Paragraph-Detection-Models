@@ -1,0 +1,47 @@
+,Blocks.paragraph,grouped_text
+0,0,"literature. Based on the 234,338 records from the first col-"
+1,1,"be phrases in the experiments. We did not limit ourselves to lection, we retrieved the corresponding PMC IDs (if avail-"
+3,2,any particular retrieval system or query length when con- able) from the PMID to the PMCID converter. 3 With the
+5,3,"structing the queries. PMCIDs, we were able to collect full-text articles for a subset of 14,660 records from the first collection. In this"
+8,4,"Phrase queries versus single-word queries. In the process second collection, we created two indexes for the 14,660"
+10,5,"of query construction, phrases were used when the authors records: one with article titles, abstracts, and full text, and"
+12,6,"considered them applicable. Therefore, the queries consist the other with all of the former fields plus tags. The com-"
+14,7,"of phrases (e.g., ""Blood vessels"") and single words (e.g., parison between these two indexes reveals the impact of tags"
+16,8,"""heart""). The phrase search is performed through an ordered in the full-text environment."
+18,9,"window that matches the words in a phrase in the same order as they appear in the document. However, note that most Collection 3: Tags and author keywords with bibliographic"
+21,10,"users do not use advanced features such as phrase search in records. Of the 234,338 records in the first collection,"
+23,11,"real search (Spink, Wolfram, Jansen, & Saracevic, 2001). It 17,264 have author-assigned keywords available from PMC. would be of interest to know how the retrieval effectiveness Using the same method to connect PMID with PMCID, we"
+27,12,of tags and author keywords varies if only single-word collected the author keywords for a subset of the first col-
+29,13,"queries are submitted. Therefore, we processed the phrase lection and added them to the metadata field. Therefore, in"
+31,14,"queries from the manually constructed queries into single- Collection 3, every record consists of the fields from Col-"
+33,15,"word queries. This process includes breaking down the lection 1 plus author keywords. Similarly, we created differ-"
+35,16,phrases into their constituent words and removing the dupli- ent indexes to study the influence of tags and author
+37,17,"cate words in a query. For example, ""Blood vessels"" will keywords. The first index includes only titles and abstracts,"
+39,18,"become ""Blood"" and ""vessels"" in the single-word queries. which serves as a benchmark. The second index includes"
+41,19,The difference between the phrase queries and the single- every field from the first one plus tags. The third index
+43,20,word queries is that the words will be matched separately in includes everything from the first one plus author keywords.
+45,21,"single-word queries, whereas the phrase will be matched as The fourth index includes titles, abstracts, tags, and author"
+47,22,a whole in phrase queries. Both phrase queries and single- keywords. We compared the impact of tags and author key-
+49,23,word queries will be tested in our experiments to provide a words in the abstract environment in this collection.
+51,24,"comprehensive view. Note that being next to each other does not necessarily make the single words a phrase. In our study, we manually constructed phrase queries to ensure that our Test Topics phrase searches were appropriate. Figure 2 summarizes the As in the Ninth Text REtrieval Conference (TREC-9) query-construction process."
+58,25,"(Voorhees & Harman, 2000), we used the MeSH headings as test topics. Every article in PM has a number of MeSH"
+60,26,"Relevance Judgments headings assigned by professional indexers to describe its content. Accordingly, each article is considered to be rel-"
+63,27,"As mentioned in the previous section, articles are consid- evant to its MeSH headings. That is, if we were to search for ered to be relevant to a topic if they are assigned the corre- ""Hypertension,"" a MeSH heading, articles with this MeSH"
+67,28,"sponding MeSH heading, SO we obtained our relevance heading are intended to be topically relevant results. Based"
+69,29,"judgments through the MeSH headings. The use of MeSH on this, we randomly selected 50 headings as test topics and"
+71,30,"headings in relevance assessments also has been employed collected additional information from their Scope Note,"
+73,31,"in other benchmark environments. The TREC-9 filtering Entry Term, and Previous Indexing fields through the MeSH track (Robertson & Hull, 2000) used MeSH headings for browser. In the query-construction procedure, each of the relevance judgments. In the TREC Genomics track (Hersh, authors independently generated her or his own queries"
+79,32,"Cohen, Roberts, & Rekapalli, 2006), expert judges were according to the information from Scope Note, Entry Term, employed to identify relevant passages, and MeSH headings and Previous indexing. The overlapping query terms (i.e.,"
+83,33,were assigned to designate their aspects of relevance. where the authors agreed) were kept for the experiments. An
+85,34,"However, note that using MeSH headings for relevance expert in physicians' information seeking and information"
+87,35,"judgments is indeed a simplification of realistic tasks and management was consulted for any controversial terms (i.e.,"
+89,36,relevance judgments. It has been shown that users' perspec- where the authors disagreed). One query was built for each
+91,37,"tives on relevance are multidimensional constructs that go topic, with phrases preferred when applicable. A phrase is"
+93,38,"beyond the content relevance or topicality (Barry, 1994; defined as a sequence of words that constitutes one single"
+95,39,"Greisdorf, 2003; Maglaughlin & Sonnenwald, 2002); concept. For example, ""Tissue Restoration,"" ""Chromosome"
+97,40,"however, our first interest in this study is to conduct a con- Banding,"" and ""Cardiovascular Diseases"" are considered to"
+99,41,trolled experiment that focuses on the impact of tags and author keywords. This simplification helps to control many Phttp://www.ncbi.nlm.nih.gov/pmc/
+102,42,confounding variables that would be introduced in realistic 3http://www.ncbi.nlm.nih.gov/sites/pmctopmid
+104,43,"tasks and relevance judgments (Hjorland, 2010; Saracevic, 4http://www.nlm.nih.gov/mesh/MBrowser.html 1975, 2007)."
+107,44,JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY-March 2014
+108,45,487 DOI: 10.1002/asi

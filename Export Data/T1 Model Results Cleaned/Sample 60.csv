@@ -1,0 +1,53 @@
+,Blocks.paragraph,grouped_text
+0,0,"Xie, 2003). IR system design necessitates a choice between"
+1,1,System Support and User Involvement for Different Types providing system features that require little user involve-
+3,2,"of Search Tactics ment, or more interactive features that could give users more"
+5,3,"Among different types of search tactics, user roles and control when using IR systems. In IR processes a user is"
+7,4,system roles for query creation and modification have been invited to be an active participant rather than a passive recip-
+9,5,"widely explored in the IR research field. The interactions ient of and reactor to output from the system (Belkin, 1993). occur while IR systems are assisting users to articulate their"
+12,6,User involvement can be considered one aspect of user information needs into specific search statements. In query
+14,7,"engagement, which is directly related to users' physical behavior and cognitive process to control and interact with"
+16,8,"creation and reformulation, the user role is to identify their information needs and convert them into a search statement. the system to accomplish search tactics. While user engage- ment is a broader concept encompassing various constructs"
+20,9,"This involvement requires users to apply various levels of and attributes derived from overall user experience, such as"
+22,10,"user knowledge to create and reformulate search queries, aesthetic, sensory appeal, and attention (O'Brien, 2011;"
+24,11,"such as domain knowledge, system knowledge, and search O'Brien & Toms, 2008, 2010), user involvement focuses"
+26,12,"skills (Hsieh-Yee, 1993; Hu, Lu, & Joo, 2013; Wildemuth, more on actual behavioral and cognitive interactions that are"
+28,13,"2004; Zhang, Liu, & Cole, 2013). The system role should necessary to enact search tactics. Researchers have used dif-"
+30,14,"assist users to increase their levels of knowledge and to ferent terminologies to represent user involvement, such as"
+32,15,"choose terms more relevant to their search goals. Imprecise user control and user role. For consistency, user involvement"
+34,16,queries or poor structure of search statements could yield is used in the literature review. Bates (1990) is one of the
+36,17,"inappropriate results, which consequently led users to inter- early scholars who raised the issue of balancing user"
+38,18,act with system features more often to find more relevant involvement and system support in IR system design. She
+40,19,"terms (Keselman, Browne, & Kaufman, 2008). At the same explored to what extent and in what ways a user should be"
+42,20,"time, researchers have paid attention to the effects of able to direct the system to function on their behalf. She con-"
+44,21,advanced search features on user-system interactions. Vilar cluded that IR systems should support the user for effective
+46,22,and Zumer (2008) proposed different levels of system sup- IR. System features at different levels can optimally support
+48,23,"port and user involvement by providing different types of users' participation. Based on Bates's (1990) suggestion,"
+50,24,"search interfaces, basic search versus advanced search. They several researchers began to consider both the user role and"
+52,25,"discussed the need for command searching to empower the the system role in IR processes, that is, user involvement"
+54,26,"levels of control for advanced users. Similarly, some fea- and system support in IR system design. While addressing"
+56,27,"tures allow more control for users to handle queries. the problems of system-dominated systems, Hendry and"
+58,28,"Researchers suggest adopting system features, such as those Harper (1997) proposed an informal information-seeking"
+60,29,"that allow for manipulating multiple queries, provide query environment where a searcher increased power over the sys-"
+62,30,"feedback and suggestions, and enable query and search tem interface during the informal problem-solving practice."
+64,31,"result tracking (Kelly, Gyllstrom, & Bailey, 2009; Rieh & Beaulieu and Jones (1998) stressed that it is imperative to"
+66,32,"Xie, 2006). System support is purposely designed for users determine to what extent the user and the system should"
+68,33,to be better involved in query reformulation by providing play a role in IR system design. In their review of IR system
+70,34,"query manipulation options, such as options for broadening design trends over time, Savage-Knepshield and Belkin"
+72,35,"or narrowing queries, suggesting related terms, or correcting (1999) pointed out that system designers progressively"
+74,36,"misspellings (Zeng et al., 2006). increased both the level of system-side support and the level"
+76,37,"Researchers have also examined user involvement and of domination provided to users in designing IR systems. system support in exploring tactics, which are essential for Xie (2003) directly compared users' perceptions of ease-of-"
+80,38,"conducting browsing activities during the IR process. Sys- use versus user control. The major finding of her study was tem support for exploration tactics helps users understand that the extent of user involvement and system support dif- the organization of information, while user roles involve fered by search activities. She also suggested desired func-"
+86,39,choosing relevant browsing categories or selecting items tionalities and interface structure of IR systems in order to
+88,40,"from a predefined document list. In prior studies, various support both user involvement and system support. Xie fur-"
+90,41,system features were proposed to facilitate effective user ther asserted that user involvement and system support are
+92,42,"involvement, such as toolbar options, footprints, structured the two essential factors that lead to effective IR. Based on"
+94,43,"breadcrumbs, and adaptive navigation (Wexelblat & Maes, their experimental study, White and Ruthven (2006) investi-"
+96,44,"1999; Zeiliger & Esnault, 2008). Offering controlled vocab- gated what types of search activities users preferred to per-"
+98,45,ulary is another approach to support users with varying lev- form. Their results show that users tended to keep more
+100,46,"els of domain knowledge (Mu et al., 2011). In addition, control during search result evaluation, but wanted more clear structure of information items is critical in effective assistance from the system during query reformulation."
+104,47,"user involvement. Herrouz, Khentout, and Djoudi (2013) Previous research has begun to explore user involvement"
+106,48,"argued that inadequate organization of information could and system support in the search process, and concludes that"
+108,49,"lead to users being lost while exploring. When exploring it is imperative to balance both roles in the interactive IR information items, users make navigational choices and process. judgments, and systems should relieve their cognitive load"
+113,50,JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY-May 2017
+114,51,1167 DOI: 10.1002/asi

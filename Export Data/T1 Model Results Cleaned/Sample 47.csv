@@ -1,0 +1,60 @@
+,Blocks.paragraph,grouped_text
+0,0,participate in this new learning environment (McLean &
+1,1,"access to digital content and enabling content aggregation Lynch, 2004). However, the use of digital libraries for educa-"
+3,2,"based on the needs of the users. Within the field of education, tional purposes represents a serious challenge that developers"
+5,3,the roles that ontologies could play have also generated a of digital libraries have just begun to recognize and address
+7,4,"growing body of research, especially in the area of e-learning (Sumner, Khoo, Recker, & Marlino, 2003). The wide range"
+9,5,"(Naeve, Lytras, Nejdl, Balacheff, & Harding, 2006). The need of uses that cultural digital collections may enable and sup-"
+11,6,"for services and tools that aid teachers' discovery, access, and port, and the variety of user communities that may benefit"
+13,7,"use of digital resources for educational purposes beyond the from these collections, make it important to rethink how these"
+15,8,"support of traditional metadata standards has been a matter materials are discovered, presented, and used. As Borgman"
+17,9,"of concern for several years. et al. (2005) point out, tools and services to facilitate school"
+19,10,"As the literature suggests, ontologies and ontology-driven educators in their teaching and learning practices are still very"
+21,11,metadata have the potential to significantly enhance infor- scarce if compared with the wealth of digital content avail-
+23,12,"mation systems, including digital libraries and educational able to them. Tailoring digital collections to their intended"
+25,13,"applications. However, ontologies are a rather novel tool in communities of sers-""customization by community"" in"
+27,14,"the context of the Web and digital libraries. Despite the large Lynch's words (2003, p. 196)-can be the key to bridging"
+29,15,"corpus of ongoing research on ontologies, primarily as the key the distance between users and resources."
+31,16,"infrastructure to enable the semantic Web, real-scale appli- The limitations of traditional knowledge representation"
+33,17,cations are limited. The number of ontologies developed in a and organization methods are seen as a major impediment to
+35,18,"wide range of domains is rapidly increasing, but few have left the discovery of and access to digital collections. In general,"
+37,19,"the research labs (Hepp, 2007). The technical and economic libraries have treated digital materials as they have treated the"
+39,20,"challenges associated with the development and deployment physical information objects under their stewardship, that is,"
+41,21,"of a domain ontology are far from trivial. DeRidder (2007), by cataloging them with descriptive and semantic standards"
+43,22,who discussed various applications of ontologies in digital designed for traditional search and retrieval methods. The
+45,23,"libraries, stresses the need to carefully weigh issues of feasi- shortcoming of this approach has been particularly confound-"
+47,24,"bility, scalability, and usefulness in relation to cost and effort ing for collections of digital cultural heritage materials, the"
+49,25,required to create ontologies for digital libraries. The range content of which poses unique challenges to its representation
+51,26,"of benefits that ontologies may offer has to be considered in (Baca, Harpring, Lanzi, McRae, & Baird Whiteside, 2006)."
+53,27,light of the technical challenges that the development of such The limitations of subject access in online library catalogs
+55,28,tools poses. The cost benefits of ontology development are have been extensively analyzed and described in past stud-
+57,29,"not yet known (Bontas & Mochol, 2006), especially for man- ies (Sridhar, 2004; Fischer, 2005). One of the major factors"
+59,30,ually constructed ontologies that are typically labor-intensive reducing the effectiveness of subject searches is the difficul-
+61,31,"and error-prone (Ding & Foo, 2002). ties users have in formulating subject queries that match the"
+63,32,"Building ontologies for information systems ""remains an Library of Congress Subject Headings used by most aca-"
+65,33,"arcane art form"" (Guarino & Welty, 2002, p. 61). One of demic libraries (Larson, 1999). The necessity to develop"
+67,34,the greatest challenges in constructing an ontology is the alternative subject access tools has long been recognized
+69,35,"scarcity of standard methodologies. As Ceusters, Smith, and (Lancaster, Connell, Bishop, & McCowan, 1991). The inte-"
+71,36,"Goldberg (2005) point out, there are no standards compara- gration of library catalogs with other discovery tools that"
+73,37,ble to ISO standards for ontology development. Ontological would complement and possibly augment or enhance current
+75,38,"engineering, the discipline applied to ontology development subject access has been at the center of recent discussions on"
+77,39,"and use, is relatively young, especially compared with more the future of cataloging (Calhoun, 2006; Coyle & Hillmann,"
+79,40,"established fields such as software engineering or knowl- 2007, Library of Congress, 2008). The usefulness of seman-"
+81,41,"edge engineering (Fernandez-Lopez, 1999). As a result, tically enriched and domain-specific metadata to improve"
+83,42,ontological engineering does not yet have a solid set of digital cultural heritage resource discovery and retrieval has
+85,43,"methodologies based on proven principles. In recent years, an also been explored, leading to a growing interest in applying"
+87,44,increasing number of studies have focused on methodolog- semantic Web technologies to cultural heritage collections of
+89,45,"ical issues (Bouaud, Bachimont, Charlet, & Zweigenbaum, materials (Benjamins et al., 2004; Hyvönen, 2009)."
+91,46,"1995; Gruber, 1993; Mizoguchi, Vanwelkenhuysen, & Ikeda, Ontologies are seen as a possible solution for improving"
+93,47,"1995; Noy & Hafner, 1997; Noy & McGuinness, 2001; discovery and access to digital content and as such have"
+95,48,"Uschold, 1996; Uschold & Gruninger, 1996). Several of become an emerging area of study in the field of digital"
+97,49,"these studies have attempted to define principles that library research (Greenberg & Méndez, 2009). The potential"
+99,50,"would systematically guide the development of ontologies. of semantic technologies, ontologies in primis, for improving"
+101,51,"Others, such as Fernandez-Lopez and Corcho, Fernandez- digital library functionality and facilitating interoperability,"
+103,52,"Lopez, and Gomez-Perez (2003), simply offer extensive sharing, and reuse of knowledge across repositories is the"
+105,53,"overviews of methodologies for ontology construction, while focus of a series of research projects. The notion of a semantic"
+107,54,"still others, like Beck and Pinto (2002) and Pinto and digital library is beginning to emerge (Sure & Studer, 2005;"
+109,55,"Martins (2004), analyze and compare the most representa- Kruk & McDaniel, 2009). Fast and Campbell (2001) discuss"
+111,56,"tive methodologies, techniques, and guidelines. It has been the usefulness of ontologies for providing more granular argued that a unified ontology engineering process that is"
+114,57,JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE AND TECHNOLOGY-February 2011
+115,58,315 DOI: 10.1002/asi

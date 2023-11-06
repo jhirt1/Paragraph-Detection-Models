@@ -1,0 +1,52 @@
+,Blocks.paragraph,grouped_text
+0,0,Knowl. Org. 39(2012)No.
+1,1,413 A. Noruzi. FRBR and Tillett's Taxonomy of Bibliographic Relationships
+3,2,lated entities via establishing machine-understand-
+4,3,"ing various bibliographic relationships, authority con- able bibliographic relationships between related enti-"
+6,4,"trol, and uniform titles (Preferred Title for the Work in ties. In other words, bibliographic records may be"
+8,5,RDA 6.2.2). made navigable by the establishment of hyperlinked
+10,6,"Zagorskaya (2000) argued that the need for biblio- bibliographic relationships. In fact, navigability de-"
+12,7,graphic relationships to be represented in the catalog pends on machine-understandability. More cross-
+14,8,is determined by the following factors: referential hyperlinks between related entities mean higher navigability.
+17,9,"functions of a library catalog, The fourth most important work published on"
+19,10,"functions of a bibliographic record, bibliographic relationships is the 1998 final report of"
+21,11,"work as a subject of bibliographic description, the Functional Requirements for Bibliographic Records"
+23,12,"concepts of main and additional records and of (FRBR). In FRBR chapter 5, ""Relationships,"" the"
+25,13,"the reference system, section on ""Other Relationships Between Group 1"
+27,14,"structure of bibliographic and authority records, Entities"" categorizes bibliographic relationships first"
+29,15,"and by the level of the entities involved (work, expres-"
+31,16,"objectives and principles of catalog organiza- sion, manifestation, item) then by type of relation- tion."
+34,17,"ship, each of which is named (IFLA 2007). It should be noted that Barbara Tillett was a consultant to the"
+36,18,FRBRized systems should organize and categorize IFLA Study Group on FRBR.
+38,19,records in such a way that searching for a specific FRBR and RDA bibliographic relationships were
+40,20,work in the catalog will lead to all available editions of inspired and influenced by the conceptual structure
+42,21,"this work, as well as to related entities. Both informa- of the bibliographic relationships defined and catego-"
+44,22,tion types (on work and on related entities) should be rized by Tillett and Smiraglia. Chapter 5 of the FRBR
+46,23,available in the catalog because the user generally final report and several sections of RDA (5-10) fo-
+48,24,starts with searching for a work and eventually pro- cused on the relationships between bibliographic en-
+50,25,"ceeds to the selection of a specific edition (Zagor- tities, and their context within the FRBR model."
+52,26,"skaya 2000). As described in the FRBR final report, the primary role of bibliographic relationships is to ""serve as the"
+55,27,"4.0 Data analysis vehicle for depicting the link between one entity and another, and thus as the means of assisting the user to"
+58,28,The FRBR final report provides a taxonomy of bib- navigate the universe that is represented in a bibliog-
+60,29,"liographic relationships in chapter 5, illustrating bib- raphy, catalogue, or bibliographic database"" (IFLA"
+62,30,"liographic relationships in 11 tables. The FRBR tax- 2007, 64). The FRBR Group 1 entities of work, ex-"
+64,31,"onomy of bibliographic relationships is shown in pression, manifestation, and item can be related to"
+66,32,"comparison with Tillett's taxonomy of bibliographic each other in a variety of ways: work to work, expres-"
+68,33,"relationships in the following Table 1. A check mark sion to expression, work to expression, expression to"
+70,34,() means that there is an exact match. manifestation and SO on (see Table 1).
+72,35,"Some types of bibliographic relationships shown in The ability to identify, build, and maintain various"
+74,36,Table 1 are very broad and also very frequent in bib- types of bibliographic relationships is a key function-
+76,37,liographic records as indicated in the previous re- ality of a FRBRized system. Bibliographic relation-
+78,38,"search conducted by Tillett and Smiraglia (e.g., de- ships provide a means to connect and navigate be-"
+80,39,"rivative), while others occur infrequently (e.g., se- tween related entities through the syndetic structure"
+82,40,"quential and shared characteristic). of the catalog. Andersen (2002, 57) argued that ""Bib-"
+84,41,"It is interesting to note that the word ""descriptive"" liographic relationships are textual means to provide"
+86,42,"and the phrase ""shared characteristic"" are not used in structure in the bibliographic textual space."" But they"
+88,43,"chapter 5 of the FRBR report. Tillett's ""descriptive re- can be textual or non-textual (e.g., URI) and could be"
+90,44,"lationships"" are not discussed in chapter 5 of FRBR, accomplished with many different devices, including"
+92,45,"because they are considered part of the ""subject"" rela- URI connections, DOI (Digital Object Identifier),"
+94,46,"tionships (FRBR, Figure 3.3). Tillett (2011) indicated ISBN (International Standard Book Number), ISWN"
+96,47,"that ""FRBR does not explicitly mention the types of (International Standard Work Number), etc. FRBR"
+98,48,"descriptive relationships, but does include them indi- and RDA offer the possibility to realize the ""finding"""
+100,49,"rectly in the diagram (Figure 3.3) showing the Group and ""collocating"" functions of the library catalog, us-"
+102,50,3 entities and 'is subject of/has subject' relationships

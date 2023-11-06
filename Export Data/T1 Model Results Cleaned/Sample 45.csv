@@ -1,0 +1,53 @@
+,Blocks.paragraph,grouped_text
+0,0,120
+1,1,Knowl. Org. 40(2013)No.2 C.H. Marcondes. Knowledge Organization and Representation in Digital Environments
+3,2,Pioneers in the development of such methodologies
+4,3,"of the domain have been fixed-the subsequent step is were Ed Yourdon and Larry Constantine (1975), Chris"
+6,4,"to devise their dimensions of analysis. Here is where fac- Gane and Trish Sarson (1977), Tom de Marco (1979), and"
+8,5,"eted analysis can best play its role. Maintaining our refer- others. These methodologies, also called structured analy-"
+10,6,"ence domain of biology, two series of facets follow. The sis or system engineering, clearly divide the system devel-"
+12,7,first series is centered on the governing concept of or- opment process into two distinct phases: requirement
+14,8,"ganism as an individual whole and lists the ""viewpoints"" analysis, which produces a logical model of the system to"
+16,9,"from which organisms SO taken can be seen. (Poli and be developed, and software implementation, which con-"
+18,10,"Obrst 2010, 15). cerns the development of programs, user interface de- The second series of facets list all the other view- sign, testing, tuning, and installation of the application in"
+22,11,"points, those not focused on the organism as a whole. a computer production environment."
+24,12,"These may comprise, for instance, genetics (focus on the While conceptual methodologies as structured analysis"
+26,13,"genes), ethology (focus on some population of organ- has its focus on processes, another pioneer, Peter Chen"
+28,14,"isms), and ecology (focus on an entire ecosystem). But, (1976) proposed the Entity-Relationship (E-R) model, a"
+30,15,"again, this is not the entire story. A substantial number of methodology which has a focus on entity, represented as"
+32,16,"other facets can and should be developed, concerning, an aggregate of attributes, i.e., data, and their relations with"
+34,17,"for instance, the growth and development of organisms, other entities. The E-R methodology is aimed at designing"
+36,18,"their reproduction, or their alimentation. For each of databases. Since then, conceptual modelling has been an"
+38,19,"these facets, appropriate ontologies can be developed. important focus of research in computer science. The"
+40,20,"(Poli and Obrst 2010). primary product of such methodologies is what was called This position suggests that faceted analysis may be a the conceptual model, usually a graphical diagram."
+45,21,"modeling phase to be developed after ontological analysis Researchers as Guarino and Guizzardi (2006), Guiz-"
+47,22,"and the definition of the domain core categories com- zardi (2005), and many others have emphasized the need"
+49,23,"prising the domain ontology. As a methodological phase, that conceptual modeling should have solid ontological"
+51,24,"faceted analysis may thus indicate possible access points bases. Nowadays, many meetings and workshops focus"
+53,25,"and issues related to the interface design phase. on the convergence of ontology, conceptual modeling, and software engineering Computer science considers"
+56,26,"5.0 Concluding remarks conceptual modeling, including increasingly ontological analysis (Guizzardi 2005), as an essential phase of system"
+59,27,"Formal ontology aims at defining what exists, here and development. There is also an increased use of concep-"
+61,28,"now, and it looks for ontological foundations of what ex- tual models in KO, such as the FRBR model (IFLA 1998)"
+63,29,"ists. Moreover computational ontology and KO both de- and the CIDOC-CRM, as guides to the development of a"
+65,30,velop methodologies to model specific domains; domain KOS in digital environments. The development of a KOS
+67,31,"modeling is a basic, common activity to both disciplines. in digital environments is a motivating factor to the adop-"
+69,32,"However the faceted analysis phase has a pragmatic ap- tion of conceptual modeling, incorporating the advances"
+71,33,"proach to domain modeling, aiming at developing an effi- on ontological analysis and the formalism provided by"
+73,34,cient KOS to providing access to knowledge records. computer ontologies (Giunchiglia et al. 2009) in the cur-
+75,35,KO cannot ignore the knowledge provided by ontol- rent KOS development.
+77,36,"ogy, as it reveals the ultimate nature of what does exists. The role of faceted classification as bases for a KOS"
+79,37,If knowledge domains were not represented in an onto- on the Web has been emphasized by many authors in-
+81,38,"logically consistent way in digital environments, as cluding Denton (2009), Gnoli and Hong (2006), Priss"
+83,39,"stressed by Gnoli, computational inferences based on (2008), Putkey (2011), Uddin (2007), and Vickery (2008a)."
+85,40,them will lead to inconsistencies. As knowledge is pro- This fact points toward a rapprochement between KO
+87,41,"duced and recorded according to its nature, the proper- and conceptual modelling and the need to integrate fac-"
+89,42,ties and different aspects of how things exist are viewed eted analysis within conceptual modelling methodologies
+91,43,or thought by users; SO it may be accessed and organized (Prieto-Díaz 2003). A proposal in this direction is Poli
+93,44,"accordingly. Ontology provides the methodological tools and Obrst (2010), who suggest a framework for domain"
+95,45,"for modeling domains in an ontologically consistent way. modelling comprising foundational ontologies, cross-"
+97,46,"In conclusion, KO-faceted analysis-aims at identi- domain ontologies, domain specific ontologies, and fac-"
+99,47,"fying all possible aspects of a phenomenon which may be eted ontologies within a domain, reflecting the various"
+101,48,of interest in order to preview users' information needs. aspects of interest in a domain.
+103,49,It always works with users' needs related to different as- Once the basic ontological structure of a domain has
+105,50,"pects of a domain. The needs of contemporary culture been established-that is to say, once the levels of reality imposes to KO that it must now develop KOS in digital"
+108,51,"https://doi.org/10.5771/0943-7444-2013-2-115 Generiert durch IP '174.114.197.135', am 26.01.2020, 02:29:59. Das Erstellen und Weitergeben von Kopien dieses PDFs ist nicht zulässig."
